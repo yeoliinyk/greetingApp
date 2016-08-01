@@ -1,2 +1,2 @@
 # greetingApp
-This console app print greeting message depending on current time.
+This console app prints greeting message depending on current time.
